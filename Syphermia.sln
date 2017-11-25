@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syphermia", "Syphermia.csproj", "{11F31AF8-3A94-AC64-BFA5-94A0E35A9C6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syphermia.Editor", "Syphermia.Editor.csproj", "{830DC271-59A6-6AD7-9996-D1204FD540D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F31AF8-3A94-AC64-BFA5-94A0E35A9C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F31AF8-3A94-AC64-BFA5-94A0E35A9C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F31AF8-3A94-AC64-BFA5-94A0E35A9C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F31AF8-3A94-AC64-BFA5-94A0E35A9C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830DC271-59A6-6AD7-9996-D1204FD540D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830DC271-59A6-6AD7-9996-D1204FD540D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830DC271-59A6-6AD7-9996-D1204FD540D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830DC271-59A6-6AD7-9996-D1204FD540D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

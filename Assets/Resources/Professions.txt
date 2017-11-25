@@ -1,0 +1,4 @@
+Soldier|18 - 40|A veteran of the military.|Constitution=3&Reflexes=2|Combatant|None
+Student|10 - 60|An up-and-coming scholar at a local institute of learning.|Willpower=4&Perception=1|Scholar|None
+Mercenary|18 - 60|A rugged warrior, once a member of a less-than-savory band of sellswords.|Constitution=3&Luck=2|Combatant|None
+Codger|55 - 60|A elder at a nearby village, reknowned for their grumpiness.|Faith=5|Other|None
